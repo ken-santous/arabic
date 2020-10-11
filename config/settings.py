@@ -5,7 +5,7 @@ import os
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # https://docs.djangoproject.com/en/dev/ref/settings/#std:setting-SECRET_KEY
-SECRET_KEY = '43)%4yx)aa@a=+_c(fn&kf3g29xax+=+a&key9i=!98zyim=8j'
+SECRET_KEY = '-gokv#$e$-bgui&9bf#j8$qr3+j0y#m6!!!o1sq)7$66^lagw#'
 # https://docs.djangoproject.com/en/dev/ref/settings/#debug
 DEBUG = True
 # https://docs.djangoproject.com/en/dev/ref/settings/#allowed-hosts
